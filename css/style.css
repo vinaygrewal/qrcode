@@ -1,0 +1,33 @@
+.container{
+
+margin:100px 400px;
+background-color: white;
+width: 400px;
+height:550px;
+position: relative;
+padding:25px 15px;
+
+
+}
+body{
+  text-align: center;
+   background-color: hsl(212, 45%, 89%);
+width:1440px;
+
+margin:0;
+}
+p{
+  Font-size:15px;
+  line-height: 2;
+
+  color:hsl(220, 15%, 55%);
+}
+.qr{
+margin-top: 10px;
+  width: 80%;
+
+
+}
+h2{
+  color: hsl(218, 44%, 22%);
+}
